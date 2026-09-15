@@ -1,14 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:111827,70:312e81,100:06b6d4&height=230&section=header&text=SAURABH%20MISHRA&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=CODE%20%7C%20DATA%20%7C%20AI%20%7C%20CLOUD&descAlignY=58&descSize=18&descColor=67e8f9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:312e81,100:06b6d4&height=240&section=header&text=SAURABH%20MISHRA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=CODE%20%E2%80%A2%20DATA%20%E2%80%A2%20AI%20%E2%80%A2%20CLOUD&descAlignY=58&descSize=18&descColor=67e8f9" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=800&lines=Computer+Science+Student+%40+KIET;Python+%7C+Java+%7C+JavaScript+%7C+SQL;Machine+Learning+%7C+Data+Analytics;AWS+Cloud+%7C+AI+Explorer;Building+Systems+That+Actually+Work+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+KIET;Python+%7C+C%2B%2B+%7C+Java+%7C+SQL;Machine+Learning+%7C+Data+Analytics;AWS+Cloud+%7C+AI+Explorer;Turning+ideas+into+working+systems+%F0%9F%9A%80" />
+<a href="https://github.com/SaurabhMishra">
+<img src="https://komarev.com/ghpvc/?username=SaurabhMishra&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
+</a>
 
-<br>
+<a href="https://github.com/SaurabhMishra?tab=followers">
+<img src="https://img.shields.io/github/followers/SaurabhMishra?label=FOLLOWERS&style=for-the-badge&color=312e81"/>
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SaurabhMishra\&label=VISITORS\&color=06b6d4\&style=for-the-badge)](https://github.com/SaurabhMishra)
+<br><br>
+
+<a href="#-about-me">ABOUT</a>
+  •   <a href="#-tech-stack">STACK</a>
+  •   <a href="#-featured-projects">PROJECTS</a>
+  •   <a href="#-certifications">CERTIFICATIONS</a>
+  •   <a href="#-github-stats">STATS</a>
 
 </div>
 
@@ -18,7 +30,243 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
+│  $ ./saurabh_mishra                                           │
+├──────────────────────────────────────────────────────────────┤
 │                                                              │
+│  STATUS        : ONLINE                                      │
+│  ROLE          : CS STUDENT                                  │
+│  FOCUS         : DATA • AI • CLOUD                           │
+│  ENVIRONMENT   : WINDOWS / LINUX                             │
+│  CURRENT_MODE  : BUILDING                                    │
+│                                                              │
+│  > Initializing developer profile...                         │
+│  > Loading Python modules...                    [████████]    │
+│  > Connecting AWS services...                   [████████]    │
+│  > Training ML models...                        [███████░]    │
+│  > Querying databases...                        [████████]    │
+│  > Deploying ideas...                            [██████░░]    │
+│                                                              │
+│  ✓ SYSTEM READY                                               │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## `02` — ABOUT ME
+
+> **Computer Science student focused on building practical solutions with Data, AI and Cloud technologies.**
+
+```python
+class SaurabhMishra:
+
+    role = "Computer Science Student"
+    university = "KIET Group of Institutions"
+
+    interests = [
+        "Machine Learning",
+        "Data Analytics",
+        "AWS Cloud",
+        "Software Development",
+        "Problem Solving"
+    ]
+
+    currently_learning = [
+        "React",
+        "Backend Development",
+        "Machine Learning",
+        "Cloud Architecture"
+    ]
+
+    mindset = "Learn → Build → Break → Fix → Repeat 🚀"
+```
+
+---
+
+## `03` — TECH STACK
+
+### ⚡ Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,sql" />
+</p>
+
+### 🧠 Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib` • `Power BI` • `Tableau`
+
+### ☁️ Cloud & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,mysql,html,css,react" />
+</p>
+
+### 🛠️ Core CS
+
+`DSA` • `OOP` • `DBMS` • `SQL` • `Operating Systems` • `Computer Networks`
+
+---
+
+## `04` — CURRENT MISSION
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                  CURRENT MISSION                     ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  [01] Master Data Structures & Algorithms             ║
+║  [02] Build stronger ML projects                     ║
+║  [03] Explore AI-powered applications                ║
+║  [04] Deepen AWS Cloud knowledge                     ║
+║  [05] Become a stronger backend developer             ║
+║                                                      ║
+║                 █████████░░  80%                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## `05` — FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 House Price Prediction
+
+Machine Learning regression project for predicting house prices using historical features.
+
+**Stack:**
+`Python` `Pandas` `Scikit-Learn` `Regression`
+
+</td>
+
+<td width="50%">
+
+### 📈 Stock Price Prediction
+
+Predictive ML model built using historical **AAPL** stock data.
+
+**Model:**
+`Random Forest Regressor`
+
+**Performance:**
+`R² ≈ 0.88` • `RMSE ≈ $3`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Data Analytics
+
+Analyzing datasets, extracting patterns and transforming raw information into useful insights.
+
+**Stack:**
+`Python` `Pandas` `Power BI` `SQL`
+
+</td>
+
+<td width="50%">
+
+### 🌾 Farmer Direct Marketplace
+
+A digital marketplace concept designed to reduce intermediaries between farmers, FPOs and buyers.
+
+**Focus:**
+`AI` `Demand Forecasting` `Logistics` `Cloud`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` — CERTIFICATIONS
+
+<div align="center">
+
+| Certification                                   | Domain                  |
+| ----------------------------------------------- | ----------------------- |
+| ☁️ AWS Certified Cloud Practitioner             | Cloud Computing         |
+| 🤖 AWS Certified AI Practitioner                | Artificial Intelligence |
+| 🛡️ Palo Alto Networks Cybersecurity Foundation | Cybersecurity           |
+| 📊 Data Analyst Internship                      | Data Analytics          |
+
+</div>
+
+---
+
+## `07` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SaurabhMishra&show_icons=true&hide_border=true&bg_color=050505&title_color=67e8f9&icon_color=06b6d4&text_color=ffffff&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhMishra&layout=compact&hide_border=true&bg_color=050505&title_color=67e8f9&text_color=ffffff" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhMishra&hide_border=true&background=050505&ring=06b6d4&fire=67e8f9&currStreakLabel=67e8f9&sideLabels=ffffff&dates=888888" width="70%"/>
+
+</div>
+
+---
+
+## `08` — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhMishra&bg_color=050505&color=67e8f9&line=06b6d4&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## `09` — DEVELOPER PHILOSOPHY
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Don't just write code.                                  │
+│    Understand the problem.                                  │
+│    Design the system.                                       │
+│    Build the solution.                                      │
+│    Then make it better."                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `10` — CONNECT
+
+<div align="center">
+
+<a href="https://github.com/SaurabhMishra">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:050505&height=120&section=footer"/>
+
+</div>
+         │
 │   USER       : Saurabh Mishra                               │
 │   ROLE       : CS Student • Developer • ML Enthusiast        │
 │   INSTITUTE  : KIET Group of Institutions                   │
